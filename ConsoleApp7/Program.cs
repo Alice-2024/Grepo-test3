@@ -24,14 +24,3 @@ Console.WriteLine("Hello, World!");
 //aaaa111112222
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aaaaaaaaaaaa
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//1111
-//22222
-//33333
-//4444455555
