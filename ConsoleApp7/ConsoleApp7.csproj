@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Include="C:\Users\v-qilei\Desktop\Class1.cs" Link="Class1.cs" />
+    <Compile Include="C:\Users\v-qilei\Desktop\Program.cs" Link="Program.cs" />
   </ItemGroup>
 
   <ItemGroup>
