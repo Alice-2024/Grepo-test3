@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");//bb11112222
-Console.WriteLine("Hello, World!");//1111111
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //2223333aaaaabbb3333344455
 Console.WriteLine("Hello, World!");
@@ -18,8 +18,19 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//111aaaa222223333bbbb
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+<<<<<<< HEAD
+//sssss
+=======
+//1111
+
+>>>>>>> test0324
+Console.WriteLine("Hello, World!");
+
