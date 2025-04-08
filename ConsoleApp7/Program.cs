@@ -22,7 +22,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aaaaa11111
-//1111111111111111111111111
-//22222
-//AAAAAAAAAAAAAAAAAAAA
