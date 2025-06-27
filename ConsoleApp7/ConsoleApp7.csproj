@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <None Include="C:\Users\v-qilei\Desktop\1.txt" Link="1.txt" />
-    <None Include="C:\Users\v-qilei\Desktop\11.txt" Link="11.txt" />
     <None Include="C:\Users\v-qilei\Desktop\2.txt" Link="2.txt" />
   </ItemGroup>
 
