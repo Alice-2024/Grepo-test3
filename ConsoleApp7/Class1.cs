@@ -2,11 +2,11 @@
 {
     internal class Class1
     {
-        int a = 1
-            //Console.WriteLine("Hello, World!");
-            //Console.WriteLine("Hello, World!");
-            //Console.WriteLine("Hello, World!");
-            //Console.WriteLine("Hello, World!");
-            //Console.WriteLine("Hello, World!");
+        int a = 1;
+        //Console.WriteLine("Hello, World!");
+        //Console.WriteLine("Hello, World!");
+        //Console.WriteLine("Hello, World!");
+        //Console.WriteLine("Hello, World!");
+        //Console.WriteLine("Hello, World!");
     }
 }
