@@ -4,6 +4,5 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//test0710111111
 Console.WriteLine("Hello, World!");
 
