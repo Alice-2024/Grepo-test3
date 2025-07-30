@@ -6,8 +6,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //222222222222
-//aa1111
+//bbbbbb
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aaaaabbb
-Console.WriteLine("Hello, World!");
+
