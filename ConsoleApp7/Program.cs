@@ -11,5 +11,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//test0731
-Console.WriteLine("Hello, World!");
