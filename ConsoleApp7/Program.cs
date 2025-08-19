@@ -8,10 +8,4 @@ Console.WriteLine("Hello, World!");
 //2222222222223333aaaaaa
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//bbbbbbbbbbbbbbbbbbbbbbb
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test0814111112222aaaaabbbb
-Console.WriteLine("Hello, World!");
+//1111
