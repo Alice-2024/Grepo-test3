@@ -9,6 +9,6 @@
         //Console.WriteLine("Hello, World!");
         //Console.WriteLine("Hello, World!");
         //Console.WriteLine("Hello, World!");
-      
+       public void Method1()
     }
 }
