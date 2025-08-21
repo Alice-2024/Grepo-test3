@@ -2,8 +2,9 @@
 {
     internal class Class1
     {
-        
-        
-      
+        public int a = 1;
+        //Console.WriteLine("Hello, World!");
+
+
     }
 }
