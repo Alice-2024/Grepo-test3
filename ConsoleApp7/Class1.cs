@@ -9,6 +9,7 @@
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
         }
 
 
