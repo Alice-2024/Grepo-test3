@@ -10,6 +10,7 @@
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
         }
 
 
