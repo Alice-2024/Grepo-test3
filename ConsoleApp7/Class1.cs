@@ -8,12 +8,11 @@
             // Using the new LINQ method introduced in C# 10
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            //test1
+            Console.WriteLine("Hello, World!"); 
+
         }
 
 
     }
 }
-//11111aaaa
-//22222bbbbb
-//11111111111111
-//aaaaaa
