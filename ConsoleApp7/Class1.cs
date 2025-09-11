@@ -10,6 +10,7 @@
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             //test1
             Console.WriteLine("Hello, World!"); 
+            const string greeting = "Hello, World!";
 
         }
 
