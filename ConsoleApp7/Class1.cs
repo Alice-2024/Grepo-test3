@@ -8,6 +8,7 @@
             // Using the new LINQ method introduced in C# 10
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            // Using the new record type introduced in C# 9
         }
 
 
