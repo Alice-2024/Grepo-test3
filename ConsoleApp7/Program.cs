@@ -9,9 +9,7 @@ public class MyClass
 {
     public void MyMethod()
     {
-        //2222222222223333aaaaaa
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
+        
 
     }
 }
