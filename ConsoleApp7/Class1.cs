@@ -9,6 +9,7 @@
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             // Using the new record type introduced in C# 9
+            var person = new Person("John", "Doe");
         }
 
 
