@@ -17,10 +17,6 @@ public class MyClass
         Console.WriteLine("test2");
         //11111
         //2222
-<<<<<<< HEAD
-        //aaaaa
-=======
-        //3333
->>>>>>> test0918
+
     }
 }
