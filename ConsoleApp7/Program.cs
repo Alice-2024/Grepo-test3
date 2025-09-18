@@ -10,6 +10,7 @@ public class MyClass
     public void MyMethod()
     {
         char myChar = 'A';
+        Console.WriteLine("Hello, World!");
 
     }
 }
