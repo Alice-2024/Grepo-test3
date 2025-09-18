@@ -11,6 +11,6 @@ public class MyClass
     {
         char myChar = 'A';
         Console.WriteLine("Hello, World!");
-
+        const string myString = "This is a constant string.";
     }
 }
