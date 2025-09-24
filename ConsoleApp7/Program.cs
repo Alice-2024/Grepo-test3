@@ -18,6 +18,8 @@ public class MyClass
         //aaaaa1111
         //CCCCC22222
         Console.WriteLine("test2");
-       
+        char myChar2 = 'B';
+
+
     }
 }
