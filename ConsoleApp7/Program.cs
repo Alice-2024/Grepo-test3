@@ -19,6 +19,7 @@ public class MyClass
         char myChar3 = 'C';
         char myChar4 = 'D';
         char myChar5 = 'E';
+        char myChar6 = 'F';
 
 
     }
