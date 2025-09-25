@@ -19,5 +19,6 @@ public class MyClass
         //2222
         //333333333333333333333
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
