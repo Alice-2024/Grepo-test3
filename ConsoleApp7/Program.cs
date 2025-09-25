@@ -15,9 +15,6 @@ public class MyClass
         Console.WriteLine("Hello");
         Console.WriteLine("test1");
         Console.WriteLine("test2");
-        //aaaaa1111
-        //CCCCC22222
-        Console.WriteLine("test2");
         char myChar2 = 'B';
         char myChar3 = 'C';
         char myChar4 = 'D';
