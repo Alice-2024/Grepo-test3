@@ -20,6 +20,7 @@ public class MyClass
         Console.WriteLine("test2");
         char myChar2 = 'B';
         char myChar3 = 'C';
+        char myChar4 = 'D';
 
 
     }
