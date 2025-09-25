@@ -19,6 +19,7 @@ public class MyClass
         //CCCCC22222
         Console.WriteLine("test2");
         char myChar2 = 'B';
+        char myChar3 = 'C';
 
 
     }
