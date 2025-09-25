@@ -23,7 +23,7 @@ public class MyClass
         char myChar7 = 'G';
         char myChar8 = 'H';
         char myChar9 = 'I';
-
+        Console.WriteLine("Hello, World!");
 
 
     }
