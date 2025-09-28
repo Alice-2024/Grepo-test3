@@ -20,11 +20,8 @@ public class MyClass
         //333333333333333333333
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-       //aaaaaaa
+        
+       
     }
 
 }
