@@ -17,7 +17,6 @@ public class MyClass
         Console.WriteLine("test2");
         //11111
         //2222
-        //333333333333333333333
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
