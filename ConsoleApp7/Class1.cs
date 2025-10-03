@@ -10,6 +10,7 @@
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             // Using the new record type introduced in C# 9
             var person = new Person("John", "Doe");
+            Console.WriteLine($"Person: {person.FirstName} {person.LastName}");
         }
 
 
