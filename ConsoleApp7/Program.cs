@@ -26,13 +26,7 @@ public class MyClass
         Console.WriteLine("test1");
         Console.WriteLine("test2");
         Console.WriteLine("test3");
-        //AAAAA
-        //BBBB
-<<<<<<< HEAD
-        //111111
-=======
-        //cccccc
->>>>>>> AA
+
     }
 
 }
