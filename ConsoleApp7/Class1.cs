@@ -8,14 +8,17 @@
             // Using the new LINQ method introduced in C# 10
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
-            // Using the new record type introduced in C# 9
-            var person = new Person("John", "Doe");
+            Console.WriteLine();
         }
-
+        public void Method2()
+        {
+            var numbers = new List<int> { 1, 2, 3, 4, 5 };
+            // Using the new LINQ method introduced in C# 10
+            var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
+            Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            Console.WriteLine();
+            Console.WriteLine();
+        }
 
     }
 }
-//11111aaaa
-//22222bbbbb
-//11111111111111
-//aaaaaa
