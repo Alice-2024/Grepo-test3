@@ -33,7 +33,11 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         //1111111111
         //2222
+<<<<<<< HEAD
         //AAAAAAAAAAAA
+=======
+        //333333333333333
+>>>>>>> test1020
     }
 
 }
