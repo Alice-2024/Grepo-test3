@@ -20,14 +20,6 @@
             Console.WriteLine("2");
             Console.WriteLine("3");
             Console.WriteLine("4");
-            //aaaaaaaaaaaaaa
-            //bbbbb
-<<<<<<< HEAD
-            //1111111111
-
-=======
-            //cccc
->>>>>>> test1023
         }
 
     }
