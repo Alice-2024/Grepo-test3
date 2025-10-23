@@ -8,7 +8,7 @@
             // Using the new LINQ method introduced in C# 10
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
-            Console.WriteLine();
+            Console.WriteLine(Environment.NewLine + Environment.NewLine);
         }
         public void Method2()
         {
@@ -16,9 +16,7 @@
             // Using the new LINQ method introduced in C# 10
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
-            Console.WriteLine();
-            Console.WriteLine();
-
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
 
         }
 
