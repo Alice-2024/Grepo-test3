@@ -22,8 +22,12 @@
             Console.WriteLine("4");
             //aaaaaaaaaaaaaa
             //bbbbb
+<<<<<<< HEAD
             //1111111111
 
+=======
+            //cccc
+>>>>>>> test1023
         }
 
     }
