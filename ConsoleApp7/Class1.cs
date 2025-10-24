@@ -18,6 +18,7 @@
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
 
         }
 
