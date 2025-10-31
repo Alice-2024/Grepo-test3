@@ -21,8 +21,7 @@ public class MyClass
         Console.WriteLine("test6");
         Console.WriteLine("test7");
         Console.WriteLine("test8");
-        //AAAA
-        Console.WriteLine("test8");
+
     }
 
 }
