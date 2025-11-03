@@ -17,7 +17,7 @@ public class MyClass
         Console.WriteLine("test8");
         Console.WriteLine("test9");
         Console.WriteLine("Hello, World!");
-
+        Console.WriteLine("Hello, World!");
     }
 
 }
