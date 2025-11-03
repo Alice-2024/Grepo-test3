@@ -20,6 +20,7 @@ public class MyClass
         Console.WriteLine("test5");
         Console.WriteLine("test6");
         Console.WriteLine("test7");
+        Console.WriteLine("test8");
     }
 
 }
