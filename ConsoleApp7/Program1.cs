@@ -14,6 +14,7 @@ class Program1
         {
             Console.WriteLine("启动失败: " + ex.Message);
             Console.WriteLine(ex.StackTrace);
+            Console.WriteLine(ex.ToString());
         }
     }
 }
