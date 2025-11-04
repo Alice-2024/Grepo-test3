@@ -25,10 +25,6 @@
             Console.WriteLine("test1");
             Console.WriteLine("test2");
             Console.WriteLine("test3");
-            //AAAAA
-            //1111
-            //BBBBB
-            //2222
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
