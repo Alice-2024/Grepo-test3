@@ -21,9 +21,15 @@ public class MyClass
         Console.WriteLine("test2");
         Console.WriteLine("test3");
         Console.WriteLine("test4");
+<<<<<<< HEAD
         //aaaaa
         //bbbbbb
         //cccc
+=======
+        //11111
+        //2222
+        //3333
+>>>>>>> dev10
     }
 
 }
