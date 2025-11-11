@@ -23,6 +23,7 @@ public class MyClass
         Console.WriteLine("test4");
         //11111
         //aaaaa
+        Console.WriteLine("test4");
     }
 
 }
