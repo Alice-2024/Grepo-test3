@@ -1,10 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
 public class MyClass
 {
     public void MyMethod()
@@ -21,6 +15,15 @@ public class MyClass
         Console.WriteLine("test6");
         Console.WriteLine("test7");
         Console.WriteLine("test8");
+        Console.WriteLine("test9");
+        Console.WriteLine("test10");
+        Console.WriteLine("test1");
+        Console.WriteLine("test2");
+        Console.WriteLine("test3");
+        Console.WriteLine("test4");
+        Console.WriteLine("test11");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 
 }
