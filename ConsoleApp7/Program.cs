@@ -28,6 +28,7 @@ public class MyClass
         //1111
         //AAAA
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 
 }
