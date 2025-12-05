@@ -25,6 +25,7 @@ public class MyClass
         Console.WriteLine("Hello!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("test1205");
 
     }
 
