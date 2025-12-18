@@ -24,7 +24,7 @@ public class MyClass
         Console.WriteLine("test11");
         Console.WriteLine("Hello!");
         Console.WriteLine("Hello, World!");
-        //AAAAAAAAAAAA
-        //BBBB
+        //11111
+        //2222
     }
 }
