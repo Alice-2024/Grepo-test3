@@ -19,12 +19,7 @@
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-        }
 
+
+        }
     }
-}
