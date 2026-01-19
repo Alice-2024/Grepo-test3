@@ -29,8 +29,6 @@ public class MyClass
         //TEST1224
         Console.WriteLine("Test1224");
         Console.WriteLine("Test1224");
-        //AAAAAAAAAA
-        //111111
         Console.WriteLine("Hello, World!");
         //1111
         Console.WriteLine("Hello, World!");
