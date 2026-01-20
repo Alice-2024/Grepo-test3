@@ -35,7 +35,5 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        //CCCCC
-        //33333
     }
 }
