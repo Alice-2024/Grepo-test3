@@ -30,7 +30,6 @@ public class MyClass
         Console.WriteLine("Test1224");
         Console.WriteLine("Test1224");
         Console.WriteLine("Hello, World!");
-        //11112222
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
