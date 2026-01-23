@@ -18,27 +18,6 @@ public class MyClass
         Console.WriteLine("test9");
         Console.WriteLine("test10");
         Console.WriteLine("test1");
-        Console.WriteLine("test2");
-        Console.WriteLine("test3");
-        Console.WriteLine("test4");
-        Console.WriteLine("test11");
-        Console.WriteLine("Hello!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //TEST1224
-        Console.WriteLine("Test1224");
-        Console.WriteLine("Test1224");
-        Console.WriteLine("Hello, World!");
-        //1111222233333
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //2222
-        //3333
+        
     }
 }
