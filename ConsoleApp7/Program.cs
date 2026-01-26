@@ -38,8 +38,5 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        //aaaaaa
-        //111111
-        //bbbbb
     }
 }
