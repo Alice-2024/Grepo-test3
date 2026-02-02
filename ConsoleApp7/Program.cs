@@ -40,5 +40,7 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         //aaaaaa
         //111111
+        Console.WriteLine("Hello, World!");
     }
+}
 }
