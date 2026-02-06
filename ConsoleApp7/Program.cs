@@ -43,13 +43,7 @@ public class MyClass
         //aaaaa
         //bbbb
         Console.WriteLine("Hello, World!");
-        //111111
-        //22222
-<<<<<<< HEAD
-        //AAAAA
-=======
-        //33333
->>>>>>> AABB
+        
     }
 }
 
