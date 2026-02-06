@@ -43,6 +43,7 @@ public class MyClass
         //1111
         //0206
         //AAAAAA
+        Console.WriteLine("Hello, World!");
     }
 }
 
