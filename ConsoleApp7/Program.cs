@@ -43,8 +43,7 @@ public class MyClass
         //aaaaa
         //bbbb
         Console.WriteLine("Hello, World!");
-        //111111
-        //AAAA
+       
     }
 }
 
