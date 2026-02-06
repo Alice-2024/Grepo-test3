@@ -44,6 +44,7 @@ public class MyClass
         //0206
         //AAAAAA
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
 
