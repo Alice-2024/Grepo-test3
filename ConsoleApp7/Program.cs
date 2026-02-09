@@ -31,6 +31,7 @@ public class MyClass
         Console.WriteLine("Test1224");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
 
