@@ -39,14 +39,7 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //aaaaa
-        //bbbb
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //1111
-        //2222
-        //aaaaa
+
     }
 }
 
