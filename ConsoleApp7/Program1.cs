@@ -13,6 +13,7 @@ class Program1
         catch (Exception ex)
         {
             Console.WriteLine("启动失败: " + ex.Message);
+            const string errorMessage = "请检查路径是否正确，并确保 Visual Studio 已安装。";
         }
     }
 }
