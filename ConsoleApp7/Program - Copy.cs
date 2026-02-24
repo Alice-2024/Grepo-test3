@@ -6,11 +6,7 @@
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+
         }
     }
 
@@ -25,6 +21,26 @@
             Console.WriteLine("test1");
             Console.WriteLine("test2");
             Console.WriteLine("test3");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
