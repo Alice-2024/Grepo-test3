@@ -33,16 +33,7 @@ public class MyClass
         //1111222233333
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //aaaaa
-        //1111
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        //aaaaaa
+        //1111111111111
         Console.WriteLine("Hello, World!");
         //111111
         //aaaaa
@@ -55,5 +46,4 @@ public class MyClass
         //1111111111111
         //aaaaaa
     }
-}
 
