@@ -52,13 +52,6 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        //1111111111111
-        //22222
-<<<<<<< HEAD
-        //aaaaaaaaaaaaa
-=======
-        //33333
->>>>>>> Test/0227
     }
 }
 
