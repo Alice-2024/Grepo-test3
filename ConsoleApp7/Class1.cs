@@ -31,6 +31,7 @@
             Console.WriteLine("Hello, World!");
             //test0305
             //aaaaaa
+            Console.WriteLine("Hello, World!");
         }
 
     }
