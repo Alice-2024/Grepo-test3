@@ -29,12 +29,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //11111
+            //test0305
             //aaaaaa
-            //bbbb
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
         }
 
     }
