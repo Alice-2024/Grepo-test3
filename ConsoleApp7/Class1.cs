@@ -28,7 +28,11 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            
+            ConsoleCancelEventHandler handler = (sender, e) =>
+            {
+                Console.WriteLine("Console cancel event triggered!");
+                e.Cancel = true; // Prevent the application from exiting
+            };
         }
 
     }
