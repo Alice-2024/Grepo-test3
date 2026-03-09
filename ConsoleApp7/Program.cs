@@ -54,6 +54,7 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.BackgroundColor = ConsoleColor.Green;
         Console.WriteLine("Hello, World!");
+        //AAA
     }
 }
 
