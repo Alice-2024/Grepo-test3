@@ -9,6 +9,11 @@
             var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
             Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
             Console.WriteLine(Environment.NewLine + Environment.NewLine);
+            ConsoleCancelEventHandler handler = (sender, e) =>
+            {
+                Console.WriteLine("Console cancel event triggered!");
+                e.Cancel = true; // Prevent the application from exiting
+            };
         }
         public void Method2()
         {
@@ -29,9 +34,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             //11111
-            //AAAA
-            //11111111111111
-            //BBBB
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
