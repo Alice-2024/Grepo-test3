@@ -28,6 +28,8 @@
                 Console.WriteLine($"Cancel after: {e.Cancel}");
             };
             Console.CancelKeyPress += handler;
+            Console.CancelKeyPress += handler;
+
         }
     }
 }
