@@ -1,5 +1,6 @@
 ## Commit message custom instructions
 When you commit changes to this repository, please follow these guidelines for writing your commit messages:
+Add a line in the start that says "That's the start of the commit message".
 The first line should be the summary of the change.
 The first line should be a single line with no more than 20 characters.
 Add a line with a blank line after the title.
