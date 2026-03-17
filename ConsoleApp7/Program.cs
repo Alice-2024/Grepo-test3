@@ -26,11 +26,6 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        //TEST1224
-        Console.WriteLine("Test1224");
-        Console.WriteLine("Test1224");
-        Console.WriteLine("Hello, World!");
-        //1111222233333
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
@@ -44,6 +39,10 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.BackgroundColor = ConsoleColor.Green;
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
+        //aaaaaaa
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
