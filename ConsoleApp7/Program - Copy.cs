@@ -31,10 +31,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
             ConsoleCancelEventHandler handler = (sender, e) =>
             {
                 Console.WriteLine("Console cancel event triggered!");
