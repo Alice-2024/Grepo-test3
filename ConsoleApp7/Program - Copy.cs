@@ -36,6 +36,7 @@
                 Console.WriteLine("Console cancel event triggered!");
                 e.Cancel = true; // Prevent the application from exiting
                 e.Equals("test");
+                e.ToString();
             };
         }
     }
