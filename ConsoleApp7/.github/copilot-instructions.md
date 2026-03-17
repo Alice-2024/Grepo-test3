@@ -1,4 +1,4 @@
-## Commit messgae custom instructions
+## Commit message custom instructions
 When you commit changes to this repository, please follow these guidelines for writing your commit messages:
 Add a summary of the changes in the title of yout commit message.
 Add a line with a blank line after the title.
