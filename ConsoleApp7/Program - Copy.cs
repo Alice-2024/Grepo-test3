@@ -53,6 +53,7 @@
             Console.WriteLine("Hello, World!");
             //test0305
             //1111111111
+            Console.WriteLine("Hello, World!");
         }
     }
 }
