@@ -47,6 +47,8 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
 
