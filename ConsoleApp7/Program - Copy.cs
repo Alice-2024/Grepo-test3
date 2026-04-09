@@ -32,6 +32,7 @@
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
             //AAAA
+            //BBB
         }
     }
 }
