@@ -31,9 +31,8 @@
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
-            //11111
-            //AAAA
-            //BBB
+             Console.CancelKeyPress += handler;
+            //1111111111
         }
     }
 }
