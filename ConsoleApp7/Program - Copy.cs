@@ -28,13 +28,7 @@
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
-             Console.CancelKeyPress += handler;
-            //1111111111
-            //AAA
-            //BBBB
-            //CCCC
-            //111
-            //DDD
+            Console.CancelKeyPress += handler;
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
