@@ -36,6 +36,7 @@
             //111
             //DDD
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
