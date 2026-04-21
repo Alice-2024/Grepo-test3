@@ -32,11 +32,16 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
+        //aaaaaa
+        Console.WriteLine("Hello, World!");
+        //111111
+        //aaaaa
+        //22222222222
+        //bbbbbb
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.BackgroundColor = ConsoleColor.Green;
     }
 }
 

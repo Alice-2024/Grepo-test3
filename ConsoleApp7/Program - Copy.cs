@@ -6,7 +6,7 @@
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
-
+            Console.WriteLine("Hello, World!");
         }
     }
 
@@ -14,41 +14,25 @@
     {
         public void MyMethod()
         {
-            char myChar = 'A';
-            Console.WriteLine("Hello, World!");
-            const string myString = "This is a constant string.";
-            Console.WriteLine("Hello");
-            Console.WriteLine("test1");
-            Console.WriteLine("test2");
-            Console.WriteLine("test3");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+            ConsoleCancelEventHandler handler = (sender, e) =>
+            {
+                Console.WriteLine("Console cancel event triggered!");
+                Console.WriteLine($"SpecialKey: {e.SpecialKey}");
+                Console.WriteLine($"Cancel before: {e.Cancel}");
+
+                // Prevent the application from exiting
+                e.Cancel = true;
+
+                Console.WriteLine($"Cancel after: {e.Cancel}");
+            };
+            Console.CancelKeyPress += handler;
+            Console.CancelKeyPress += handler;
+            Console.CancelKeyPress += handler;
+            Console.CancelKeyPress += handler;
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+            //AAAA
         }
     }
 }
