@@ -30,15 +30,7 @@
             Console.CancelKeyPress += handler;
             Console.CancelKeyPress += handler;
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            //AAAA
-            //BBB
-            //CCC
-            //111
-            //222
-            //333
-            //4444
+           
         }
     }
 }
