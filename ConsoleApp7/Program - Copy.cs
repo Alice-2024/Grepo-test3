@@ -25,12 +25,6 @@
 
                 Console.WriteLine($"Cancel after: {e.Cancel}");
             };
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.WriteLine("Hello, World!");
-           Console.WriteLine("Hello, World!");
         }
     }
 }
