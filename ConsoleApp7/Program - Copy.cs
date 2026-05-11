@@ -25,6 +25,7 @@
                 e.Cancel = true;
 
                 Console.WriteLine($"Cancel after: {e.Cancel}");
+                Console.WriteLine("Application will continue running.");
             };
         }
     }
