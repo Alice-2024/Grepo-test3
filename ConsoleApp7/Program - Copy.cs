@@ -26,6 +26,7 @@
 
                 Console.WriteLine($"Cancel after: {e.Cancel}");
                 Console.WriteLine("Application will continue running.");
+                Console.WriteLine("Press Ctrl+C again to exit.");
             };
         }
     }
