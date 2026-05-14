@@ -7,6 +7,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            //aaaaa
+            //bbb
         }
     }
 
@@ -24,17 +26,10 @@
                 e.Cancel = true;
 
                 Console.WriteLine($"Cancel after: {e.Cancel}");
+                Console.WriteLine("Application will continue running.");
+                //111
+                //AAA
             };
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.CancelKeyPress += handler;
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            //AAAA
-            //BBB
-            //CCC
         }
     }
 }
