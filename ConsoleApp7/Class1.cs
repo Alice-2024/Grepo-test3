@@ -37,12 +37,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //11111
-            //2222
-            //3333
-            //4444
-            //555
-            //AAAA
         }
 
     }
