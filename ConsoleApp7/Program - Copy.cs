@@ -8,6 +8,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             //aaaaa
+            //bbb
         }
     }
 
@@ -26,7 +27,7 @@
 
                 Console.WriteLine($"Cancel after: {e.Cancel}");
                 Console.WriteLine("Application will continue running.");
-                //111
+                Console.WriteLine("Press Ctrl+C again to exit.");
             };
         }
     }
