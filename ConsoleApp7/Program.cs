@@ -26,6 +26,7 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         //111
         //AAA
+        Console.WriteLine("Hello, World!");
     }
 }
 
