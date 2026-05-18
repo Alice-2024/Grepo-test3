@@ -32,7 +32,11 @@ public class MyClass
         Console.WriteLine("Hello, World!")
         //1111
         //2222
+<<<<<<< HEAD
         //AAAA
+=======
+        //3333
+>>>>>>> Test/0518
     }
 }
 
