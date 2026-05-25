@@ -33,6 +33,7 @@ public class MyClass
         //AAA
         //BBB
         //CCC
+        Console.WriteLine("Hello, World!");
     }
 }
 
