@@ -13,6 +13,7 @@
             {
                 Console.WriteLine("Console cancel event triggered!");
                 e.Cancel = true; // Prevent the application from exiting
+                e.GetType().GetProperty("Cancel")?.SetValue(e, true); // Set the Cancel property to true
             };
         }
         public void Method2()
