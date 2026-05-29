@@ -45,13 +45,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //111111
-            //22222
-<<<<<<< HEAD
-            //AAAAAA
-=======
-            //333333
->>>>>>> Test/0529
         }
 
     }
