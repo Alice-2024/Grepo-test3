@@ -18,6 +18,7 @@ public class MyClass
         Console.WriteLine("test9");
         Console.WriteLine("test10");
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
         Console.WriteLine("test1");
         Console.WriteLine("test2");
         Console.WriteLine("test3");
