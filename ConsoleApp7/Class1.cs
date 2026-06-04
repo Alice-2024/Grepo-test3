@@ -22,7 +22,11 @@
             Console.WriteLine("Hello, World!");
             //111111
             //2222222
+<<<<<<< HEAD
             //AAAA
+=======
+            //333333
+>>>>>>> test0604
         }
 
     }
