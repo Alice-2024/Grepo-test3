@@ -26,8 +26,5 @@
             Console.WriteLine("test5");
             //11111
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
         }
     }
-}
