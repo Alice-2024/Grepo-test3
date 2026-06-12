@@ -21,6 +21,16 @@
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine("Hello, World!");
         }
-
+        public void Method3()
+        {
+            var numbers = new List<int> { 1, 2, 3, 4, 5 };
+            // Using the new LINQ method introduced in C# 10
+            var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
+            Console.WriteLine("Even Numbers: " + string.Join(", ", evenNumbers));
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
