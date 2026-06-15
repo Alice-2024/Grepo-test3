@@ -21,6 +21,7 @@
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine("Hello, World!");
             //AAAAAAA
+            Console.WriteLine("Hello, World!");
         }
 
     }
