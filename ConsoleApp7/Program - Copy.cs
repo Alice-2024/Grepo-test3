@@ -25,6 +25,7 @@
             Console.WriteLine("test4");
             Console.WriteLine("test5");
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
