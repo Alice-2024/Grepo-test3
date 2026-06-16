@@ -1,0 +1,5 @@
+﻿// Generate repeated lines
+for (int i = 0; i < 100000; i++)
+{
+    Console.WriteLine("This is a benchmark line " + i);
+}
