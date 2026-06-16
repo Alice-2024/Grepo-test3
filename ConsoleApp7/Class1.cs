@@ -20,13 +20,10 @@
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine("Hello, World!");
-            //AAAAAA
-            //BBBBBBBBB222222
-            //CCCCCC
-            //111111
-            //222222
-            //AAAAA
-            //33333
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
 
     }
