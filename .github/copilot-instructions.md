@@ -1,6 +1,7 @@
 ## Commit message custom instructions
 Please follow these guidelines for writing your commit messages:
 Add a summary of the changes in the first line of your commit message.
-Add a line with a blank line after the title.
+Add a blank line after the title.
+Add the file name at the beginning of each file changes.
 Add a line with a blank line for each file changes.
 Add a line in the end that says "That's the end of the commit message".
