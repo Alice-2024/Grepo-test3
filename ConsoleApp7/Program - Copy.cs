@@ -30,12 +30,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            //AAAAAA
-            //BBBBB
-            //CCCCC
-            Console.WriteLine("Hello, World!");
-            //AAAA
         }
     }
 }
