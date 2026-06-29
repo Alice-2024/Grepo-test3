@@ -17,7 +17,6 @@
         {
             char myChar = 'A';
             Console.WriteLine("Hello, World!");
-            const string myString = "This is a constant string.";
             Console.WriteLine("Hello");
             Console.WriteLine("test1");
             Console.WriteLine("test2");
