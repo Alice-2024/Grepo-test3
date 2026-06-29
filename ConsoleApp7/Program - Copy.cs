@@ -36,6 +36,7 @@
             //CCCCC
             Console.WriteLine("Hello, World!");
             //AAAA
+            Console.WriteLine("Hello, World!");
         }
     }
 }
