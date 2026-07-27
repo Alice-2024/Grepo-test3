@@ -38,6 +38,7 @@
             //AAAA
             //BBB
             //CCC
+            Console.WriteLine("Hello, World!");
         }
     }
 }
