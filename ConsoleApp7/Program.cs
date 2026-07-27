@@ -25,6 +25,7 @@ public class MyClass
         Console.WriteLine("test4");
         Console.WriteLine("test11");
         Console.WriteLine("Hello!");
+        Console.WriteLine("Hello, World!");//111
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
@@ -46,8 +47,7 @@ public class MyClass
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");//222
     }
 
 }
