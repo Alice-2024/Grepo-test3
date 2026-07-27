@@ -25,7 +25,7 @@ public class MyClass
         Console.WriteLine("test4");
         Console.WriteLine("test11");
         Console.WriteLine("Hello!");
-        Console.WriteLine("Hello, World!");//AAA
+        Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
