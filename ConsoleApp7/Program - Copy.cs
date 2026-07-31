@@ -35,7 +35,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //AAAA
+            //a new comment in the middle of the code
             //BBB
             //CCC
             Console.WriteLine("Hello, World!");
