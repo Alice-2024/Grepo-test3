@@ -42,7 +42,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //DDD
+            //test auto resolve merge conflict
             //EEE
             //FFF
         }
