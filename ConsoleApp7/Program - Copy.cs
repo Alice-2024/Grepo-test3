@@ -46,7 +46,7 @@
             //22222222222
             //EEE
             //FFF
-            //AAAA
+            //test auto resolve merge conflict
         }
     }
 }
