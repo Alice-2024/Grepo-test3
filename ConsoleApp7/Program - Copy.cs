@@ -46,11 +46,8 @@
             Console.WriteLine("Hello, World!");
             //test auto resolve merge conflict
             //test auto resolve merge conflict
-            //EEE
-            //FFF
-            //test auto resolve merge conflict
-            //333333333333
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
-
