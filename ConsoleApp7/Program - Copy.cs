@@ -47,6 +47,7 @@
             //test auto resolve merge conflict
             //test auto resolve merge conflict
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
