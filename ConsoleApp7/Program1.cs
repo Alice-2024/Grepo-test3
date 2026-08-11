@@ -12,7 +12,7 @@ class Program1
         }
         catch (Exception ex)
         {
-            Console.WriteLine("启动失败: " + ex.Message);
+            Console.WriteLine("启动失败: " + ex.Message);//Line15
         }
     }
 }
