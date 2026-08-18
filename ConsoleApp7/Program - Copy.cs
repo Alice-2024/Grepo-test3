@@ -15,7 +15,7 @@
         public void MyMethod()
         {
             char myChar = 'A';
-            Console.WriteLine("Hello, World!");//AAAA
+            Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello");
             Console.WriteLine("test1");
             Console.WriteLine("test2");
