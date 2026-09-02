@@ -24,10 +24,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //AAAABBBB
-            //CCC
-            //DDD
-            //EEE
         }
 
     }
