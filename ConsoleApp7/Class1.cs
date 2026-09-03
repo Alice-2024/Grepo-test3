@@ -24,9 +24,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //1112223331111
-            //22233334444
-//aaaa
         }
 
     }
