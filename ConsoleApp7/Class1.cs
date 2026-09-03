@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp7
+1﻿namespace ConsoleApp7
 {
     internal class Class1
     {
@@ -24,7 +24,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            //111222333
+            //1112223331111
             //22233334444
         }
 
