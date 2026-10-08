@@ -6,10 +6,6 @@
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
-            //AAAA
-            //BBBB
-            //1111
-            //222233334445555
         }
     }
 
