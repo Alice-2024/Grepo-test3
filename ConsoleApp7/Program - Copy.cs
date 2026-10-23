@@ -7,12 +7,6 @@
         {
             Console.WriteLine("Hello, World!");
             //11112222
-            //CCCCCCCCCCC
-            //AAAAAAAAAAAA
-            //BBBBBBBB
-            //CCCCCCCCCCCCC
-            //DDDDD
-            //EEEEE
         }
     }
 
