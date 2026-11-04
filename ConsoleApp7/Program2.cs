@@ -5,14 +5,7 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Hello, World!");   
-            //EEEEE
-            //AAA
-            //BBB
-            //CCCC
-            //DDDDD
-            //EEEEEE
-            //FFFF
+            Console.WriteLine("Hello, World!");
         }
     }
 
