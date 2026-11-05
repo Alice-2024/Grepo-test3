@@ -6,71 +6,65 @@
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
-<<<<<<< HEAD
-            //AAAAAAAA
-=======
-            //1111111111
->>>>>>> Test/1105
         }
-    }
 
-    public class Program3
-    {
-        public void MyMethod()
+        public class Program3
         {
-            char myChar = 'A';
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello");
-            Console.WriteLine("test1");
-            Console.WriteLine("test2");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            //test auto resolve merge conflict
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+            public void MyMethod()
+            {
+                char myChar = 'A';
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello");
+                Console.WriteLine("test1");
+                Console.WriteLine("test2");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                //test auto resolve merge conflict
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+                Console.WriteLine("Hello, World!");
+            }
         }
     }
-}
