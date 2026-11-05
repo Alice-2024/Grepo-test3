@@ -6,9 +6,6 @@
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
-            //AAAAAAAAAA
-            //BBBBBB
-            //AAAAAA
         }
 
         public class Program3
