@@ -39,34 +39,7 @@
                 Console.WriteLine("Hello, World!");
                 Console.WriteLine("Hello, World!");
                 Console.WriteLine("Hello, World!");
-                //test auto resolve merge conflict
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
-                Console.WriteLine("Hello, World!");
+          
             }
         }
     }
