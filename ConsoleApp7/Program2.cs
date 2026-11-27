@@ -9,12 +9,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            //AAAAA
-            //BBBBBB
-            //CCCCCCCC
-            //DDDDDD
-            //EEEEE
         }
 
         public class Program3
